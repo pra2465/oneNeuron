@@ -1,0 +1,4 @@
+matplotlib
+numpyp
+pandas
+joblib
